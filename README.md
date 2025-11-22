@@ -85,5 +85,4 @@ Next tool is : **Multi Text Label Generator** (create 10+ labels at once) — id
 
 ---
 
-**Developed by Suhail Asghar** | [autopyai](https://autopy.gumroad.com/l/fpfcp)
-| Privacy-First Automation*
+**Developed by Suhail Asghar** | [autopyai](https://autopy.gumroad.com) | Privacy-First Automation
